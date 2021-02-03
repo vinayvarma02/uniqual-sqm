@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DbLibrary.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="qual_Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">racorad30-scan.test.intranet</Value>
+    </Setting>
+    <Setting Name="qual_INSTANCE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sde:oracle11g:neisl01t_19</Value>
+    </Setting>
+    <Setting Name="AUTHENTICATION_MODE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DBMS</Value>
+    </Setting>
+    <Setting Name="qual_DATABASE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">neisl01t_19</Value>
+    </Setting>
+    <Setting Name="USER_SWGISLOC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SWGISLOC</Value>
+    </Setting>
+    <Setting Name="PASSWORD_SWGISLOC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CtlSwGis2020</Value>
+    </Setting>
+    <Setting Name="VERSION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sde.DEFAULT</Value>
+    </Setting>
+    <Setting Name="Qual_PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1521</Value>
+    </Setting>
+    <Setting Name="USER_QS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">qual_schema</Value>
+    </Setting>
+    <Setting Name="PASSWORD_QS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CtlQual2020</Value>
+    </Setting>
+    <Setting Name="RunMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="lqmartinServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">racorad09-scan.test.intranet</Value>
+    </Setting>
+    <Setting Name="lqmartinDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lqdb002d_18</Value>
+    </Setting>
+    <Setting Name="lqmartinUserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">up2date</Value>
+    </Setting>
+    <Setting Name="lqmartinPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lqma1n01</Value>
+    </Setting>
+    <Setting Name="lqPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1521</Value>
+    </Setting>
+    <Setting Name="lqLfacsServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">racorad09-scan.test.intranet</Value>
+    </Setting>
+    <Setting Name="lqLfacsDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lqdw001_18</Value>
+    </Setting>
+    <Setting Name="lqLfacsUserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">up2date</Value>
+    </Setting>
+    <Setting Name="lqLfacsPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lqma1n01</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

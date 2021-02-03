@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturyLink_ArcApp", "CenturyLink_ArcApp\CenturyLink_ArcApp.csproj", "{671E44E9-0D45-445F-83CC-884072876B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbLibrary", "ClassLibrary1\DbLibrary.csproj", "{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671E44E9-0D45-445F-83CC-884072876B57}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{671E44E9-0D45-445F-83CC-884072876B57}.Debug|x64.ActiveCfg = Debug|x64
+		{671E44E9-0D45-445F-83CC-884072876B57}.Debug|x86.ActiveCfg = Debug|x86
+		{671E44E9-0D45-445F-83CC-884072876B57}.Debug|x86.Build.0 = Debug|x86
+		{671E44E9-0D45-445F-83CC-884072876B57}.Release|Any CPU.ActiveCfg = Release|x86
+		{671E44E9-0D45-445F-83CC-884072876B57}.Release|x64.ActiveCfg = Release|x64
+		{671E44E9-0D45-445F-83CC-884072876B57}.Release|x86.ActiveCfg = Release|x86
+		{671E44E9-0D45-445F-83CC-884072876B57}.Release|x86.Build.0 = Release|x86
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Debug|x64.ActiveCfg = Debug|x64
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Debug|x64.Build.0 = Debug|x64
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Debug|x86.Build.0 = Debug|Any CPU
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Release|x64.ActiveCfg = Release|x64
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Release|x64.Build.0 = Release|x64
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Release|x86.ActiveCfg = Release|Any CPU
+		{4E246CED-C8BD-4D8F-915E-649D87F4AD9E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D64D7C48-E034-429A-A4C6-79ADC992551B}
+	EndGlobalSection
+EndGlobal
