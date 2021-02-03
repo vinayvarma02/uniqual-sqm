@@ -1,0 +1,36 @@
+{
+    "getShapesListMaxNumItems": "1000",
+    "initializeRequest": {
+        "datasets": [
+            {
+                "filePath": "F:\\path_to_datasets\\all_us.gdx"
+            },
+            {
+                "filePath": "F:\\path_to_datasets\\structure_us.gdx"
+            }
+        ],
+        "extensionDatasets": [
+            {
+                "filePath": "F:\\geocode\\path_to_datasets\\poli_us.gdx"
+            },
+            {
+                "filePath": "F:\\path_to_datasets\\spatialrecord_us.gdx"
+            }
+        ],
+        "licenseCode": 999999999,
+        "licenseFilePath": "C:\\path_to_license\\pxpoint.lic",
+        "referenceFilePath": "C:\\path_to_reference_file\\PxPointReference.ref",
+        "typeaheadDatasets": {
+            "us-address": {
+                "filePath": "F:\\path_to_typeahead\\parcel_us_atx"
+            }
+        }
+    },
+    "listenPort": "12343",
+    "logging": {
+        "emailFromAddress": "example@mydomain.com",
+        "emailToAddress": "",
+        "logFilePath": "C:\\Users\\path_to_log\\logfilename.txt",
+        "smtpServer": ""
+    }
+}

@@ -1,0 +1,17 @@
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\app.config
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\CenturyLink_ArcApp.exe.config
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\CenturyLink_ArcApp.exe
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\CenturyLink_ArcApp.pdb
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\DbLibrary.dll
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\JobModel.dll
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\PxPointSC.NET.dll
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\DbLibrary.pdb
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\DbLibrary.dll.config
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\bin\Debug\JobModel.pdb
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\obj\x86\Debug\CenturyLink_ArcApp.csprojAssemblyReference.cache
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\obj\x86\Debug\CenturyLink_ArcApp.csproj.CoreCompileInputs.cache
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\obj\x86\Debug\CenturyLink_ArcApp.csproj.CopyComplete
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\obj\x86\Debug\CenturyLink_ArcApp.exe
+C:\Users\ac68179\source\repos\CenturyLink\LatestUniqualSqm\CenturyLink_ArcApp\obj\x86\Debug\CenturyLink_ArcApp.pdb

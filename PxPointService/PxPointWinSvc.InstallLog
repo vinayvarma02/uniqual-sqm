@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\PxPointService\PxPointWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\PxPointService\PxPointWinSvc.exe
+   logfile = E:\PxPointService\PxPointWinSvc.InstallLog
+Installing service PxPointWinSvc...
+Service PxPointWinSvc has been successfully installed.
+Creating EventLog source PxPointWinSvc in log Application...
+Committing assembly 'E:\PxPointService\PxPointWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\PxPointService\PxPointWinSvc.exe
+   logfile = E:\PxPointService\PxPointWinSvc.InstallLog
